@@ -1,4 +1,4 @@
-# Kotlin-CleanArchitecture-Hilt
+# Kotlin-CleanArchitecture_Hilt
 
 <h3>Android에 CleanArchitecture를 적용(Hilt 사용) </h3>
 
