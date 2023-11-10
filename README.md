@@ -18,7 +18,7 @@
 </div>
 
 <h4>
- 위의 사진 처럼 모듈을 data, domain, presentaiton으로 구성<br>
+ 위의 사진 처럼 모듈을 data, domain, presentaiton으로 구성<br><br>
  Hilt Module은 presentation에서 설정
 </h4>
 
