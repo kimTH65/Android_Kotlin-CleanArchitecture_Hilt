@@ -38,6 +38,4 @@
   </a>
  </h6>
 </div>
-
-```
-```
+datasource + mapper + model 로 데이터를 얻고 RepositoryImpl를 통해 usecase에 전달(usecase에 Repsitory interface가 존재)
