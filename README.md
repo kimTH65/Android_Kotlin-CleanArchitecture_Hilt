@@ -58,7 +58,7 @@
   <a href="domain/src/main/java/com/example/domain/model">model</a> + 
   <a href="domain/src/main/java/com/example/domain/usecase">usecase</a> 
   로 데이터 변형 후 presentation에 전달<br><br>
-  <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface 존재</a> 
+  <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface</a>가 존재
  </h5>
 </div>
 
