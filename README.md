@@ -1,5 +1,7 @@
 # Android(Kotlin)-CleanArchitecture_Hilt
 
+ - <a href ="https://github.com/kimTH65/Android_Kotlin-MVVM_Hilt">Android_Kotlin-MVVM_Hilt</a>와 같은 기능
+
  - CleanArchitecture 사용<br>
  
  - LiveData, ViewModel, Observer메소드를 이용하여 실시간으로 UI변경<br>
