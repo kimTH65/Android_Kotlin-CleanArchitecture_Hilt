@@ -17,15 +17,27 @@
  <h6>출처 : https://blog.cleancoder.com/</h6>
 </div>
 
-<h4>위의 사진 처럼 모듈을 data, domain, presentaiton으로 구성</h4><br>
+<h4>
+ 위의 사진 처럼 모듈을 data, domain, presentaiton으로 구성<br>
+ DI는 presentation에서 설정
+</h4>
 
  data에서 데이터를 습득 하여 usecase 전달<br><br>
 　↳　usecase에서 데이터를 필요에 맞게 변형 시킨후 presentation으로 전달<br><br>
 　　　　↳　presentation에서 전달 받은 데이터로 이용하여 view를 표시 
  
-
-
 <br>
 <hr>
 
-<h3>1. Manifest</h3>
+<h3>1. Data Module</h3>
+
+<div align="center">
+ <h6>
+  <a href="app/src/main/AndroidManifest.xml">
+   app/src/main/AndroidManifest.xml
+  </a>
+ </h6>
+</div>
+
+```
+```
