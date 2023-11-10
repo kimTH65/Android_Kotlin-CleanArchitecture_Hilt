@@ -28,7 +28,7 @@
      
 <div align="center">
  <h4>  
-   <a href="presentation/src/main/java/com/example/memo/di">Hilt Module은 presentation에서 설정</a>
+   <a href="presentation/src/main/java/com/example/memo/di">Hilt Module</a>은 presentation에서 설정
  </h4>
 </div>
 
