@@ -71,7 +71,7 @@
  <h5>
   <a href="presentation/src/main/java/com/example/memo/viewmodel/MainViewModel.kt">ViewModel</a>
   에서 usecase를 이용 하여 
-  <a href="presentation/src/main/java/com/example/memo/ui">view</a>에 데이터 전달<br><br>
+  <a href="presentation/src/main/java/com/example/memo/ui">View</a>에 데이터 전달<br><br>
  </h5>
 </div>
 
