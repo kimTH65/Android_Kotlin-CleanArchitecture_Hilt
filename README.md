@@ -22,8 +22,8 @@
  
 </h4>
 
-　data에서 데이터를 습득 하여 usecase 전달<br><br>
-　　↳　usecase에서 데이터를 필요에 맞게 변형 시킨후 presentation으로 전달<br><br>
+　data에서 데이터를 습득 하여 domain 전달<br><br>
+　　↳　domain에서 데이터를 필요에 맞게 변형 시킨후 presentation으로 전달<br><br>
 　　　　　↳　presentation에서 전달 받은 데이터로 이용하여 view를 표시 
      
 <div align="center">
@@ -36,6 +36,22 @@
 <hr>
 
 <h3>1. Data Module</h3>
+
+<div>
+ <h5>
+  <a href="data/src/main/java/com/example/data/datasource">datasource</a> + 
+  <a href="data/src/main/java/com/example/data/mapper">mapper</a> + 
+  <a href="data/src/main/java/com/example/data/model">model</a>
+  로 데이터를 얻고 
+  <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
+  를 통해 usecase에 전달<br><br>
+  usecase에 Repository interface가 존재
+ </h5>
+</div>
+
+#
+
+<h3>2. Domain Module</h3>
 
 <div>
  <h5>
