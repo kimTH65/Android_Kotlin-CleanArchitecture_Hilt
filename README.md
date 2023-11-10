@@ -19,7 +19,7 @@
 
 <h4>
  위의 사진 처럼 모듈을 data, domain, presentaiton으로 구성<br><br>
- Hilt Module은 presentation에서 설정
+ Hilt Module은 presentation에서 설정<br>
 </h4>
 
 　data에서 데이터를 습득 하여 usecase 전달<br><br>
