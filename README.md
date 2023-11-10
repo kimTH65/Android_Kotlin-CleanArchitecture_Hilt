@@ -31,11 +31,15 @@
 
 <h3>1. Data Module</h3>
 
-<div align="center">
- <h6>
-  <a href="app/src/main/AndroidManifest.xml">
-   app/src/main/AndroidManifest.xml
-  </a>
- </h6>
+<div>
+ <h5>
+  <a href="data/src/main/java/com/example/data/datasource">datasource</a> + 
+  <a href="data/src/main/java/com/example/data/mapper">mapper</a> + 
+  <a href="data/src/main/java/com/example/data/model">model</a>
+  로 데이터를 얻고 
+  <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
+  를 통해 usecase에 전달<br><br>
+  usecase에 Repository interface가 존재
+ </h5>
 </div>
-datasource + mapper + model 로 데이터를 얻고 RepositoryImpl를 통해 usecase에 전달(usecase에 Repsitory interface가 존재)
+
