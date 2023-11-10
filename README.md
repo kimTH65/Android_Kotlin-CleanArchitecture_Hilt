@@ -72,7 +72,6 @@
   <a href="presentation/src/main/java/com/example/memo/viewmodel/MainViewModel.kt">ViewModel</a>
   에서 usecase를 이용 하여 
   <a href="presentation/src/main/java/com/example/memo/ui">view</a>에 데이터 전달<br><br>
-  <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface</a>가 존재
  </h5>
 </div>
 
