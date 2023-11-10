@@ -45,7 +45,7 @@
   로 데이터를 얻고 
   <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
   를 통해 usecase에 전달<br><br>
-  usecase에 Repository interface가 존재
+  Domain에 Repository interface가 존재
  </h5>
 </div>
 
