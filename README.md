@@ -28,7 +28,7 @@
      
 <div align="center">
  <h4>  
-   Hilt Module은 presentation에서 설정
+   <a href="presentation/src/main/java/com/example/memo/di">Hilt Module은 presentation에서 설정</a>
  </h4>
 </div>
 
@@ -58,6 +58,20 @@
   <a href="domain/src/main/java/com/example/domain/model">model</a> + 
   <a href="domain/src/main/java/com/example/domain/usecase">usecase</a> 
   로 데이터 변형 후 presentation에 전달<br><br>
+  <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface</a>가 존재
+ </h5>
+</div>
+
+
+#
+
+<h3>3. Presentation Module</h3>
+
+<div>
+ <h5>
+  <a href="presentation/src/main/java/com/example/memo/viewmodel/MainViewModel.kt">ViewModel</a>
+  에서 usecase를 이용 하여 
+  <a href="presentation/src/main/java/com/example/memo/ui">view</a>에 데이터 전달<br><br>
   <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface</a>가 존재
  </h5>
 </div>
