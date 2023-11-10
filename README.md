@@ -28,7 +28,7 @@
      
 <div align="center">
  <h4>  
-   Hilt Module은 presentation에서 설정<br>
+   Hilt Module은 presentation에서 설정
  </h4>
 </div>
 
