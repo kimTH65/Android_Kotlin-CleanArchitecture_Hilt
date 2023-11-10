@@ -22,9 +22,9 @@
  Hilt Module은 presentation에서 설정
 </h4>
 
- data에서 데이터를 습득 하여 usecase 전달<br><br>
-　↳　usecase에서 데이터를 필요에 맞게 변형 시킨후 presentation으로 전달<br><br>
-　　　　↳　presentation에서 전달 받은 데이터로 이용하여 view를 표시 
+　data에서 데이터를 습득 하여 usecase 전달<br><br>
+　　↳　usecase에서 데이터를 필요에 맞게 변형 시킨후 presentation으로 전달<br><br>
+　　　　　↳　presentation에서 전달 받은 데이터로 이용하여 view를 표시 
  
 <br>
 <hr>
