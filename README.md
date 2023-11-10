@@ -55,13 +55,10 @@
 
 <div>
  <h5>
-  <a href="data/src/main/java/com/example/data/datasource">datasource</a> + 
-  <a href="data/src/main/java/com/example/data/mapper">mapper</a> + 
-  <a href="data/src/main/java/com/example/data/model">model</a>
-  로 데이터를 얻고 
-  <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
-  를 통해 usecase에 전달<br><br>
-  usecase에 Repository interface가 존재
+  <a href="domain/src/main/java/com/example/domain/model">model</a> + 
+  <a href="domain/src/main/java/com/example/domain/usecase">usecase</a> 
+  로 데이터 변형 후 presentation에 전달<br><br>
+  <a href="domain/src/main/java/com/example/domain/repository/Repository.kt">Repository Interface 존재</a> 
  </h5>
 </div>
 
