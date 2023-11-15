@@ -54,9 +54,9 @@
   <a href="data/src/main/java/com/example/data/datasource">datasource</a> + 
   <a href="data/src/main/java/com/example/data/mapper">mapper</a> + 
   <a href="data/src/main/java/com/example/data/model">model</a>
-  And Forward to usecase via 
+  And Forward to usecase via <br><br>
   <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
-  exists in Domain<br><br>
+  exists in Domain
  </h5>
 </div>
 
