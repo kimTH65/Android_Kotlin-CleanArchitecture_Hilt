@@ -9,7 +9,7 @@
   </h5>
 </div>
  
- - <a href ="https://github.com/kimTH65/Android_Kotlin-MVVM_Hilt">Android_Kotlin-MVVM_Hilt</a>is same as This Project
+ - <a href ="https://github.com/kimTH65/Android_Kotlin-MVVM_Hilt">Android_Kotlin-MVVM_Hilt</a> is same as This Project
 
  - Using CleanArchitecture<br>
  
