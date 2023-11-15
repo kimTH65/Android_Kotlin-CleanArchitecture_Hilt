@@ -33,9 +33,9 @@
  
 </h4>
 
-　Acquire data from data and deliver domain<br><br>
-　　↳　Transform the data in the domain to fit your needs and deliver it to presentation<br><br>
-　　　　　↳　data passed from presentation is used in View 
+　Acquire data from data module and deliver domain module<br><br>
+　　↳　Transform the data in the domain module to fit your needs and deliver it to presentation module<br><br>
+　　　　　↳　data passed from presentation module is used in View 
      
 <div align="center">
  <h4>  
