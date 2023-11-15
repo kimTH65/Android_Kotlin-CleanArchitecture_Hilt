@@ -22,7 +22,7 @@
  - <a href ="https://www.kobis.or.kr/kobisopenapi/homepg/main/main.do">韓国の映画振興委員会API</a>を使用
 <br>
 
- # 흐름
+ # 流れ
 <div align="center">
  <img height="400" src="https://github.com/kimTH65/cs/blob/main/img/CleanArchitecture.jpg">
  <h6>출처 : https://blog.cleancoder.com/</h6>
