@@ -3,9 +3,9 @@
 <div align="right">
   <h5>
     Language : 
-    <a href="README.md">한국어</a> 
+    <a href="JP.md">日本語</a> 
       ,
-    <a href="US.md">English </a> 
+    <a href="US.md">English</a> 
   </h5>
 </div>
  
