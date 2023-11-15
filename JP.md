@@ -55,7 +55,7 @@
   <a href="data/src/main/java/com/example/data/model">model</a>
   でデータを取得
   <a href="data/src/main/java/com/example/data/repository/RepositoryImpl.kt">RepositoryImpl</a>
-  を通してusecaseに伝達<br><br>
+　を通してusecaseに伝達<br><br>
   DomainにRepository interfaceが存在
  </h5>
 </div>
@@ -81,7 +81,7 @@
 <div>
  <h5>
   <a href="presentation/src/main/java/com/example/memo/viewmodel/MainViewModel.kt">ViewModel</a>
-  でusecaseを利用して 
+  でusecaseを利用して
   <a href="presentation/src/main/java/com/example/memo/ui">View</a>にデータ連携<br><br>
  </h5>
 </div>
